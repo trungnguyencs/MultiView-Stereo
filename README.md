@@ -32,7 +32,7 @@ The scripts name and their functionality are decribed below :
 
 Raw images:
 
-![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/input.png "Title")
+![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/Results/input.png "Title")
 
 HDR Image Result:
 * Method 1:
