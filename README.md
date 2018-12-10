@@ -31,7 +31,7 @@ The scripts name and their functionality are decribed below :
 ## Results 
 
 * Left & right image:
-<img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg" width="425"/> <img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/02.jpeg" width="425"/> 
+<img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/01.jpeg" width="350"/> <img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/StereoImages/02.jpeg" width="350"/> 
 * Feature matching:
 ![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/Results/feature_matching.png "Title")
 * Epilines:
