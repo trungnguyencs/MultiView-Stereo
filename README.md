@@ -28,3 +28,16 @@ The scripts name and their functionality are decribed below :
 2. CalibImages                      : Consist of 10 images of chessboard taken at different angles to determine intrinsic camera matrix. 
 3. StereoImages                     : Two images depicting situation as if taken by left and right camera to introduce paralax.
 
+## Results 
+
+Raw images:
+
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/PictureStackImages/input.png "Title")
+
+HDR Image Result:
+* Method 1:
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/ToneMappedImages/hdr1.jpg "Title")
+* Method 2:
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/ToneMappedImages/hdr2.jpg "Title")
+* Method 3:
+![alt text](https://github.com/trungnguyencs/CE264HDR/blob/master/ToneMappedImages/hdr_fusion_mertens.jpg "Title")
