@@ -40,3 +40,7 @@ The scripts name and their functionality are decribed below :
 * Projection:
 
 <img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/Results/projection1.png" width="425"/> <img src="https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/Results/projection2.png" width="425"/> 
+* Image warping:
+![alt text](https://github.com/trungnguyencs/CE264MultiViewStereo/blob/master/Results/warping0.png "Title")
+
+
