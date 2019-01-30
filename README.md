@@ -3,7 +3,7 @@ An implementation of plane-sweeping 2-view stereo technique. Second project for 
 
 ## Motivation
 Implemented plane sweeping 2-view stereo after calibrating the camera for finding intrinsic matrix and rotational and translational 
-vectors. Also performed SIFT to find matching points and found the depth of each pixel. Resultant depth image is also plotted.
+vectors. Also performed SIFT to find points of interest and match them, then use the results to find the depth of each pixel. Resultant depth image is also plotted.
 
 ## OS, Libraries and Language
 The code can be compiled in any operating system MAC-OS, Windows. The code is written in python3 and Libraries used are:
