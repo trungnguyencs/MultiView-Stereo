@@ -1,5 +1,5 @@
 ## CE264 Multi-view Stereo
-An implementation of plane-sweeping 2-view stereo technique. Second project for Fall 2018 CE264-Computer Vision at UC Santa Cruz
+An implementation of plane-sweeping 2-view stereo technique.
 
 ## Motivation
 Implemented plane sweeping 2-view stereo after calibrating the camera for finding intrinsic matrix and rotational and translational 
