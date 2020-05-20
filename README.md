@@ -24,7 +24,7 @@ The scripts name and their functionality are decribed below :
    the resultant depth image.
 
 ## Files 
-1. CE264MultiviewStereo             : parent directory
+1. MultiviewStereo             : parent directory
 2. CalibImages                      : Consist of 10 images of chessboard taken at different angles to determine intrinsic camera matrix. 
 3. StereoImages                     : Two images depicting situation as if taken by left and right camera to introduce paralax.
 
