@@ -1,4 +1,4 @@
-## CE264 Multi-view Stereo
+## Multi-view Stereo
 An implementation of plane-sweeping 2-view stereo technique.
 
 ## Motivation
